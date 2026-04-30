@@ -1,0 +1,12 @@
+primary_sector,article_count,avg_sentiment,avg_predicted_impact,avg_confidence,max_impact,bullish_count,bearish_count,neutral_count,bullish_ratio,net_sentiment,top_article,top_source,top_url
+Financials,13,-0.18925335240395053,-0.5288461538461539,0.77682048482787,2.128,4,5,4,0.3076923076923077,-0.07692307692307693,Amazon Web Services revenue accelerates on AI workloads,CNBC,https://example.com/article/12
+Consumer Staples,11,0.20563446106994696,0.3848181818181818,0.6536413552489105,1.26,8,2,1,0.7272727272727273,0.5454545454545454,"Retail sales data beats expectations, consumer resilient",Yahoo Finance,https://example.com/article/6
+Industrials,16,-0.17521228470586864,-0.28462499999999996,0.7461763696880488,3.018,11,1,4,0.6875,0.625,Bank of Japan policy shift rattles financial markets,MarketWatch,https://example.com/article/26
+Utilities,12,0.1249041755923183,0.27233333333333337,0.6953062945914156,2.444,3,6,3,0.25,-0.25,"Semiconductor shortage eases, chip stocks rally broadly",Bloomberg,https://example.com/article/85
+Energy,7,0.04810491973558379,0.2392857142857143,0.7965994857936595,2.13,1,2,4,0.14285714285714285,-0.14285714285714285,"Retail sales data beats expectations, consumer resilient",CNBC,https://example.com/article/51
+Information Technology,19,-0.030523910847292446,-0.20100000000000004,0.7591516548926424,3.244,7,7,5,0.3684210526315789,0.0,Biotech index surges after FDA approves key drug,Financial Times,https://example.com/article/74
+Real Estate,11,-0.0982530331540829,-0.17481818181818182,0.7620793624515193,2.305,4,3,4,0.36363636363636365,0.09090909090909091,Fed signals rate pause as inflation shows signs of cooling,Bloomberg,https://example.com/article/91
+Materials,9,-0.10126246719085638,-0.14788888888888888,0.6362381262206784,1.33,4,2,3,0.4444444444444444,0.2222222222222222,"JPMorgan beats Q3 earnings, raises full-year guidance",Reuters,https://example.com/article/63
+Communication Services,6,-0.01449248144183185,0.12583333333333332,0.6863570022377616,1.966,0,5,1,0.0,-0.8333333333333334,Energy stocks surge after OPEC+ extends production cuts,Reuters,https://example.com/article/32
+Health Care,6,-0.19413023624447776,-0.07533333333333338,0.7168131069293503,2.016,3,2,1,0.5,0.16666666666666666,Healthcare sector weathers regulatory headwinds,Bloomberg,https://example.com/article/110
+Consumer Discretionary,10,-0.052232428377789256,-0.01369999999999999,0.6412504842463738,1.158,3,3,4,0.3,0.0,"Semiconductor shortage eases, chip stocks rally broadly",Seeking Alpha,https://example.com/article/40
